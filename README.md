@@ -1,5 +1,3 @@
-# Grupo03_Practica2
-
 # 🌱 Seed Clustering (Unsupervised Learning)
 
 This repository contains the full development of a **Machine Learning** project, focused on applying **unsupervised clustering techniques** to a dataset of seeds. Algorithms such as **K-Means**, **Hierarchical Clustering**, and **DBSCAN** were used, along with **PCA** for dimensionality reduction and result visualization.
